@@ -152,6 +152,19 @@
                 <label for="subdistrict" class="form-label">ตำบล</label>
                 <select class="form-select" id="subdistrict" required>
                     <option selected disabled value="">เลือกตำบล</option>
+			 <option>เเพงพวย</option>
+                    <option>ดอนกรวย</option>
+                    <option>ท่านัด</option>
+                    <option>บัวงาม</option>
+                    <option>ตาหลวง</option>
+                    <option>ดำเนินสะดวก</option>
+                    <option>บ้านไร่</option>
+                    <option>ประสาทสิทธฺ์</option>
+                    <option>ศรีสุราษฎร์</option>
+                    <option>สี่หมื่น</option>
+                    <option>ขุนพิทักษ์</option>
+                    <option>ดอนคลัง</option>
+                    <option>ดอนไผ่</option>
                 </select>
             </div>
             <div class="col-md-6">
